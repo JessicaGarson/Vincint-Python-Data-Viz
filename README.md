@@ -1,2 +1,2 @@
 # Vincint-Python-Data-Viz
-Playing a python plotting libary 
+Playing with a python plotting libary 
